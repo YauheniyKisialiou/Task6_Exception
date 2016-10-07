@@ -1,0 +1,6 @@
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Task6\bin\Debug\Task6.exe.config
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Task6\bin\Debug\Task6.exe
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Task6\bin\Debug\Task6.pdb
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Task6\obj\Debug\Task6.exe
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Task6\obj\Debug\Task6.pdb

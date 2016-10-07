@@ -1,0 +1,5 @@
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\ConvertToString\bin\Debug\ConvertToString.dll
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\ConvertToString\bin\Debug\ConvertToString.pdb
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\ConvertToString\obj\Debug\ConvertToInt.csprojResolveAssemblyReference.cache
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\ConvertToString\obj\Debug\ConvertToString.dll
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\ConvertToString\obj\Debug\ConvertToString.pdb

@@ -1,0 +1,8 @@
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\bin\Debug\Tests.dll
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\bin\Debug\Tests.pdb
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\bin\Debug\ConvertToString.dll
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\bin\Debug\ConvertToString.pdb
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\obj\Debug\Tests.dll
+c:\users\yauheniy_kisialiou\documents\visual studio 2015\Projects\Task6_Exception\Tests\obj\Debug\Tests.pdb
